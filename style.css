@@ -1,0 +1,28 @@
+.top{
+    background-color: #CCD5AE;
+}
+h1{
+    font-family: "Libre Baskerville", serif;
+}
+.about{
+    background-color: #E0E5B6;
+}
+.feature{
+    background-color: #FAEDCE;
+}
+.card{
+    background-color: antiquewhite;
+  
+}
+.w{
+    gap: 30px;
+}
+.feature{
+    background-color: antiquewhite;
+}
+.education{
+    background-color: #FAEDCE;
+}
+.footer{
+    background-color: #FEFAE0;
+}
